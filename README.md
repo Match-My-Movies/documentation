@@ -10,6 +10,10 @@ Access the live application here: [Match My Movies](https://matchmymovies.com)
 
 View the repository: [MMM GitHub Repo](https://github.com/Match-My-Movies)
 
+## Link to Part A Documentation
+View the repository: [Part A Documentation](https://github.com/chonsukp/feb24-t3a2-full-stack-app-part-a)
+
+
 ## Features
 
 - **Genre Combiner**: Select two genres to get tailored movie recommendations.
@@ -35,13 +39,6 @@ View the repository: [MMM GitHub Repo](https://github.com/Match-My-Movies)
 - **Educators**: For guidance and support.
 - **TMDB API**: The movie data source for this project.
 
-## Dataflow Diagram
-![Dataflow Diagram](./docs/diagrams/dataflow-diagram-0.png)
-![Dataflow Diagram](./docs/diagrams/dataflow-diagram-1.png)
-
-## Application Architecture Diagram
-![Architecture Diagram](./docs/diagrams/app-architecture-diagram.png)
-
 ## Screenshots
 ### Home Page
 ![Home Page Screenshot](./docs/deployed/home-page.png)
@@ -51,10 +48,3 @@ View the repository: [MMM GitHub Repo](https://github.com/Match-My-Movies)
 
 ### Random Movie Generator
 ![Random Movie Screenshot](./docs/deployed/random-movie-page.png)
-
-## Planning
-### Trello Boards
-![Trello Board 1](./docs/planning/trello-board-initial.png)
-![Trello Board 1](./docs/planning/trello-board-midway-1.png)
-![Trello Board 1](./docs/planning/trello-board-midway-2.png)
-![Trello Board 1](./docs/planning/trello-board-final.png)
